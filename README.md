@@ -7,3 +7,6 @@ https://app.notion.com/p/S-W-3d5f152657c98020b2b9d77a2df4d8aa?source=copy_link
 
 중간보고 발표 주소
 https://yeon119.github.io/project-log/midterm/#1
+
+10주차 발표 주소
+https://yeon119.github.io/project-log/week10/#1
