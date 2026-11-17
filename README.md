@@ -13,3 +13,6 @@ https://yeon119.github.io/project-log/week10/#1
 
 11주차 발표 주소
 https://yeon119.github.io/project-log/week11/#1
+
+12주차 발표자료
+https://yeon119.github.io/project-log/week12/#1
